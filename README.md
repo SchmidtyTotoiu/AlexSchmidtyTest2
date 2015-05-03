@@ -4,4 +4,4 @@ Follow these instructions to download jekyll (got to there [site](http://jekyllr
 
 `~ $ gem install jekyll`
 
-note: make sure that you have 
+note: make sure that you have ruby and node installed
