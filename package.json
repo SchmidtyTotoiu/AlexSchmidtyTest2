@@ -1,0 +1,30 @@
+{
+  "name": "Name_Provect",
+  "version": "0.0.0",
+  "description": "Name of Website",
+  "main": "Name",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike schmidt",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.6.9",
+    "cheerio": "^0.18.0",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-concat": "^2.4.3",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-jekyll": "0.0.0",
+    "gulp-livereload": "^3.6.0",
+    "gulp-minify-css": "^0.4.3",
+    "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^1.0.0-alpha.2",
+    "gulp-sass": "^1.3.2",
+    "gulp-svgmin": "^1.1.0",
+    "gulp-svgstore": "^5.0.0",
+    "gulp-uglify": "^1.1.0",
+    "svgo": "^0.5.0"
+  }
+}
