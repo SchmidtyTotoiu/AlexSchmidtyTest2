@@ -1,8 +1,12 @@
 ##Dependencies
 [ruby](http://code.tutsplus.com/tutorials/how-to-install-ruby-on-a-mac--net-21664)
+
 [node and npm](https://docs.npmjs.com/getting-started/installing-node)
+
 [jekyll](http://jekyllrb.com/docs/installation/)
+
 [gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+
 [browser-sync](http://www.browsersync.io/)
 
 These all need to be installed globally on your computer.
